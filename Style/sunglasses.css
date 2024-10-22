@@ -1,22 +1,22 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #161515;
 }
 
 h1 {
     text-align: center;
     margin: 20px 0;
     font-size: 36px;
-    color: #444;
+    color: #060606;
 }
 
 /* Sunglasses Section */
 .sunglasses-section {
-    padding: 40px;
+    padding: 42px;
     background-color: #fff;
     max-width: 1200px;
     margin: 0 auto;
